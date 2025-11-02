@@ -105,6 +105,19 @@
           "texto": "Arrepiado! Que performance incrível!"
         }
       ]
+    },
+    {
+      "titulo": "O video tutorial de API REST",
+      "canal": "Super dev",
+      "descricao": "op",
+      "videoUrl": "https://www.youtube.com/watch?v=umaXYEbd5vA",
+      "thumbnail": "https://www.valuehost.com.br/blog/wp-content/uploads/2024/07/api-770x515.jpeg.webp",
+      "banner": "https://picsum.photos/id/10/2000/400",
+      "visualizacoes": "0 visualizações",
+      "postadoHa": "agora mesmo",
+      "likes": "0",
+      "comentarios": [],
+      "id": 6
     }
   ]
 }

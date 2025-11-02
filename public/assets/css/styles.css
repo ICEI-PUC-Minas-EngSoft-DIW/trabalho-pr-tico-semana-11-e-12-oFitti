@@ -200,17 +200,12 @@ body {
     color: #333;
 }
 
-/* A classe .grade-videos foi removida daqui. 
-  O layout agora é controlado pelas classes .row, .row-cols-* e .g-* no HTML.
-*/
-
 .card-video {
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 4px;
     overflow: hidden;
     transition: box-shadow 0.2s ease;
-    /* Adicionado para garantir que o card ocupe a altura do .col */
     height: 100%; 
 }
 
@@ -224,9 +219,6 @@ body {
 
 .miniatura-video {
     width: 100%;
-    /* A altura fixa pode distorcer a imagem. 
-      Considere usar aspect-ratio ou ajustar conforme a necessidade.
-    */
     height: 120px; 
     object-fit: cover;
     display: block;
@@ -325,7 +317,6 @@ body {
 }
 
 @media (max-width: 768px) {
-    /* A regra .grade-videos foi removida daqui */
 
     .cabecalho-principal {
         padding: 8px 12px;
@@ -410,7 +401,6 @@ body {
 }
 
 @media (max-width: 560px) {
-    /* A regra .grade-videos foi removida daqui */
 
     .acoes-usuario {
         gap: 6px;

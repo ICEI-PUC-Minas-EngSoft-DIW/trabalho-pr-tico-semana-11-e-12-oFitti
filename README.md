@@ -6,10 +6,10 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gustavo Fitipaldi Moreira
+- Matricula: 900609
+- Proposta de projeto escolhida: Copia barata do youtube
+- Breve descrição sobre seu projeto: Youtube só que feito por um estudante.
 
 **Print dos testes da API com Postman ou similar**
 
@@ -23,8 +23,7 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](img/logs.png)
 ## **Orientações Gerais**
 
 Nesse projeto você vai encontrar a seguinte estrutura base:
